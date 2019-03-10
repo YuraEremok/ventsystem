@@ -333,14 +333,20 @@ h1.navbar-brand {
     min-height: 100%;
     position: absolute;
     text-align: center;
-    top: 230px;
+    top: 30px;
     width: 100%;
     z-index: 11;
 }
 
+
+
 .slide-caption .caption-content {
     display: table-cell;
+    vertical-align: middle;
 }
+
+
+
 
 .caption-content h2 {
     color: #fff;
